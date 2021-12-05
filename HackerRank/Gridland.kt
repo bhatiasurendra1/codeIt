@@ -29,8 +29,8 @@ fun getSafePaths(journeys: Array<String>): Array<String> {
 fun getSafePath(x_index: Int, y_index: Int, k_index: Int): String {
     var k = k_index
     val row = y_index + 1
-    val column = x_index + 1 // x,y is column and row index,
-    val totalPaths = Array(row) { IntArray(column) } // p[i][j] keep sum of paths to (x,y) from (j,i)
+    val column = x_index + 1 // x_index, y_index is column and row index,
+    val totalPaths = Array(row) { IntArray(column) } // totalPaths[i][j] keep sum of paths to (x_index,y_index) from (j,i)
     totalPaths[row - 1][column - 1] = 1
     for (i in row - 1 downTo 0) {
         for (j in column - 1 downTo 0) {
