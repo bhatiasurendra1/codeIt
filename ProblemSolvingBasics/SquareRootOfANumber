@@ -1,0 +1,10 @@
+public class Solution {
+    public int solve(int A) {
+        for(int i = 1; i*i <= A; i++){ // We only need to traverse not more than sqrt of A
+            if(i*i == A){
+                return i;
+            }
+        }
+        return -1;
+    }
+}
