@@ -17,7 +17,7 @@ Output Format
 Return an integer, representing the maximum possible profit.
 ***/
 
-public class Solution {
+public class BuySellStocksProblem {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public int maxProfit(final int[] A) {
 
