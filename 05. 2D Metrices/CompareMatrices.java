@@ -23,8 +23,8 @@ Output Format
 Return 1 if both matrices are equal or return 0.
 */
 
-public class CompareMetrices {
-    public int compareMetrices(int[][] A, int[][] B) {
+public class CompareMatrices {
+    public int compareMatrices(int[][] A, int[][] B) {
         for(int i = 0; i< A.length; i++){
             for(int j =0; j< A[0].length; j++){
                 if(A[i][j] != B[i][j]){
