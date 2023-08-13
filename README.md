@@ -10,4 +10,6 @@ I keep updaing it so check it regularly for new programs and happy learning. :)
 4. [Carry Forward](https://github.com/bhatiasurendra1/codeIt/tree/master/03.%20CarryForward)
 5. [SubArrays](https://github.com/bhatiasurendra1/codeIt/tree/subarrays_problems/04.%20SubArrays)
 6. [2D Metrices](https://github.com/bhatiasurendra1/codeIt/tree/2d_metrics/05.%202D%20Metrices)
+7. [Sliding Window](https://github.com/bhatiasurendra1/codeIt/tree/sliding_window_problems/06.%20Sliding%20Window)
     
+ 
