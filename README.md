@@ -9,4 +9,5 @@ I keep updaing it so check it regularly for new programs and happy learning. :)
 3. [Prefix Sum](https://github.com/bhatiasurendra1/codeIt/tree/master/02.%20PrefixSum)
 4. [Carry Forward](https://github.com/bhatiasurendra1/codeIt/tree/master/03.%20CarryForward)
 5. [SubArrays](https://github.com/bhatiasurendra1/codeIt/tree/subarrays_problems/04.%20SubArrays)
+6. [2D Metrices](https://github.com/bhatiasurendra1/codeIt/tree/2d_metrics/05.%202D%20Metrices)
     
